@@ -4,4 +4,4 @@ https://i.imgur.com/BmncJ8X.png
  
  !(image)[https://imgur.com/a/Z51l3uu]
 
-![Imgur Image](https://imgur.com/a/Z51l3uu)
+![Imgur Image](https://imgur.com/a/Z51l3uu.jpg)
